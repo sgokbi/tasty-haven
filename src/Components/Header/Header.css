@@ -1,0 +1,12 @@
+a {
+  margin-left: 1rem;
+  font-size: 1.2rem;
+}
+
+a:hover {
+  color: palevioletred;
+}
+
+.header-bg {
+  background-color: #23180d;
+}
